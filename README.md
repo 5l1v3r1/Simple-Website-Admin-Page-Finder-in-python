@@ -9,4 +9,4 @@ Wordlist is collected (crd)as soon as possible.
 * requests(python module)
  
 ## Command to run
-> ** ** root@kali:~#python adminfind.py https://www.ExAmple.com wordlist.txt
+** ** root@kali:~#python adminfind.py https://www.ExAmple.com wordlist.txt
