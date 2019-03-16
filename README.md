@@ -8,3 +8,4 @@ Wordlist is collected (crd)as soon as possible.
 * arguments(python module)
 * requests(python module)
  
+## Command to run
